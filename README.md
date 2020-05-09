@@ -14,8 +14,8 @@
 プログラムの処理としては、<br>
 フロント→Vue<br>
 バックエンド→Ruby<br>
-でサーバー別にし、APIを読み込んで処理を行っています。
-![APIリポジトリ](https://github.com/gototakuma/reservation_api)
+でサーバー別にし、APIを読み込んで処理を行っています。<br>
+[APIリポジトリ](https://github.com/gototakuma/reservation_api)
 
 
 ## ユーザー(お客さん)
