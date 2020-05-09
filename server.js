@@ -3,9 +3,11 @@ var path = require('path');
 var serveStatic = require('serve-static');
 var history = require('connect-history-api-fallback');
 
+
 app.use(history());
 app = express();
 app.use(serveStatic(__dirname + "/dist"));
+
 
 var port = process.env.PORT || 8080;
 app.listen(port);
